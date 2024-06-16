@@ -1,2 +1,4 @@
-sqlalchemy 
 fastapi
+pymysql
+sqlalchemy
+psycopg2
